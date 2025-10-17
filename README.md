@@ -1,6 +1,6 @@
 # Forecasting
 
-A project repository focused on **forecasting, data analytics, and visualization** — combining SpaceX launch success prediction, web data collection, and financial stock analysis (Tesla).  
+A project repository focused on **forecasting, data analytics, and visualisation** — combining SpaceX launch success prediction, web data collection, and financial stock analysis.  
 Contains structured Jupyter notebooks for data collection, model training, and interactive dashboards.
 
 ---
